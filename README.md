@@ -65,10 +65,10 @@ The generated thumbnail uses the following specifications:
 
 ## Credits
 
-Developed by **Samuel Pasaribu** under **HaxorAI**.
+Developed by **CryBypass** under **HaxorAI**.
 
-Website: [haxorai.com](https://haxorai.com)
+Website: crybypass](https://crybypass.blogspot.com)
 
 ---
 
-© HaxorAI. All rights reserved.
+© CryBypass. All rights reserved.
