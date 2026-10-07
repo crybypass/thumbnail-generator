@@ -67,7 +67,7 @@ The generated thumbnail uses the following specifications:
 
 Developed by **CryBypass** under **HaxorAI**.
 
-Website: crybypass](https://crybypass.blogspot.com)
+Website: [crybypass](https://crybypass.blogspot.com)
 
 ---
 
